@@ -1,5 +1,4 @@
 # Netflix_Movies
-
 Developed an interactive Power BI dashboard to analyze Netflix movie trends, visualizing key insights on genre
 popularity (with top 3 genres showing a 25% share), release year distribution (showing a 10-year trend of 100+
 movies), and regional content availability (identifying 5 regions with the highest content gaps).
